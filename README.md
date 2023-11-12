@@ -11,3 +11,4 @@ Before sorting: ["dsf", "ytn", "gfn", "dww"]
 After  sorting: ["dsf", "dww", "gfn", "ytn"]
 
 ```
+![img](https://github.com/yuuuuuuan/BubbleSort/blob/master/574567657567.PNG)
