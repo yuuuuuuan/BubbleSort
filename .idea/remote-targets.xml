@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="WSL - Arch" type="wsl" uuid="a4637a3e-61c9-45a8-8319-e20a0d7c94a1">
+        <config>
+          <option name="distributionMsId" value="Arch" />
+          <option name="projectRootOnTarget" value="{exitCode=0, timeout=false, cancelled=false, stdout=/mnt/d/Program Files/JetBrains/RustRover 233.8264.32/jbr/bin&#10;, stderr=}/BubbleSort" />
+        </config>
+        <ContributedStateBase type="RsLanguageRuntime">
+          <config>
+            <option name="cargoPath" value="/usr/sbin/cargo" />
+            <option name="cargoVersion" value="1.75.0-nightly (7046d992f 2023-11-08)" />
+            <option name="rustcPath" value="/usr/sbin/rustc" />
+            <option name="rustcVersion" value="1.75.0-nightly (fdaaaf9f9 2023-11-08)" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
